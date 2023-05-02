@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking for ReactJS Developer Job
 - 📫 Contact number: 7598049856
-gmail: karthikeyanerer@gmail.com
+- 📫Gmail: karthikeyanerer@gmail.com
 
 <!---
 KarthikeyanER/KarthikeyanER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
