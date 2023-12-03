@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KarthikeyanER
-- 👀 I’m interested in Front end development
+- 👀 I’m interested in Back end and Front end development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking for ReactJS Developer Job
-- 📫 Contact number: 7598049856
+- 💞️ I’m looking for Full Stack Developer Job
 - 📫Gmail: karthikeyanerer@gmail.com
 
 <!---
